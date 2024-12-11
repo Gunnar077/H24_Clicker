@@ -9,3 +9,5 @@ Hér að neðan er Inkscape Hönnunar teikningin okkar.
 ![image](https://github.com/user-attachments/assets/f0d75138-c9bc-49f4-834e-3181710cabfd)
 Hér er linkur að video að aftan sem sýnir að leikurinn virkar:
 https://youtu.be/ORsZj1cX7eE?feature=shared
+og hér er video þar sme loka gerpinn af spilinu er sýnd:
+https://youtube.com/shorts/aUwzZzEwKis?si=JEYVC98a8qatSvKG
